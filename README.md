@@ -20,3 +20,5 @@ $R{f}$ = taxa livre de risco<br>
 $\sigma {p}$ = desvio padrão **negativo** dos retornos<br>
 
 O Índice Sharpe é mais sensível à volatilidade por considerar tanto a volatilidade positiva quanto a negatica, por conta disso, em momentos de alta (bull market) é mais interessante usar o Índice Sortino, que representará melhor nosso portfólio de investimentos.
+
+Você pode acessar o código comentado [aqui](https://github.com/nogueiraguilherme/Sharpe-vs-Sortino/blob/main/Sharpe_vs_Sortino_Bitcoin.ipynb).
