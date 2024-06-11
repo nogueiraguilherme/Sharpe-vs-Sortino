@@ -1,6 +1,6 @@
-# Sharpe-vs-Sortino
-## Estudo de caso em Bitcoin
-
+---
+# Sharpe-vs-Sortino: Estudo de caso em Bitcoin
+---
 Sharpe e Sortino são métricas para estudo e análise de risco em investimentos.
 
 Ao investir buscamos retorno, mas precisamos observar além disso, precisamos também observar o risco, ou seja, avaliar o retorno ajustado ao risco. Um ativo com alto retorno pode ser um ativo com alto risco, trazendo volatilidade para nossa carteira.
